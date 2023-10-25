@@ -4,7 +4,7 @@ plugins {
 
 android {
     namespace = "vncom.dodinhnguyen.bmicalculator"
-    compileSdk = 33
+    compileSdk = 34
 
     defaultConfig {
         applicationId = "vncom.dodinhnguyen.bmicalculator"
